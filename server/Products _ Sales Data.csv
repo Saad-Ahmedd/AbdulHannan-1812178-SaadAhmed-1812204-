@@ -1,0 +1,924 @@
+Sales ID,Product Category,Product Name,Product Quantity,Product Salescost,Date Of Sales,Total Amount
+,,,,,,
+101,Speaker,Samsung S-21,2,7000,1/2/2021,89000
+,Refrigerator,Haier Single Door HDF-24,1,75000,,
+,,,,,,
+102,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,1/2/2021,492000
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+,,,,,,
+103,Speaker,Sony XG300 X-Series ,2,9500,1/3/2021,333000
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,Refrigerator,Dawlance 547-WB,2,70000,,
+,,,,,,
+104,Refrigerator,Haier Glass Door HRF-291,2,79000,1/4/2021,158000
+,,,,,,
+105,Speaker,Jiasound JBL-03,4,8000,1/4/2021,32000
+,,,,,,
+106,Tv,EcoStar LED HD Frameless TV,1,74000,1/5/2021,442000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,,,,,,
+107,Speaker,Audionic RTX-2,5,7500,1/5/2021,37500
+,,,,,,
+108,Refrigerator,Haier Single Door HDF-24,2,75000,1/7/2021,355000
+,Tv,Sony Z9J BRAVIA XR,1,97000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+109,Speaker,Audionic RTX-2,1,7500,1/9/2021,184500
+,Speaker,Jiasound JBL-03,2,8000,,
+,Tv,EcoStar LED HD Frameless TV,1,74000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,1,87000,,
+,,,,,,
+1010,Speaker,Sony XG300 X-Series ,12,9500,1/12/2021,114000
+,,,,,,
+1011,Refrigerator,Dawlance 547-WB,3,70000,1/12/2021,404000
+,Tv,Sony Z9J BRAVIA XR,2,97000,,
+,,,,,,
+1012,Refrigerator,Haier Glass Door HRF-291,3,79000,1/16/2021,237000
+,,,,,,
+1013,Tv,Samsung QN85A Neo QLED 4K Smart TV,6,92000,1/18/2021,552000
+,,,,,,
+1014,Speaker,Sony XG300 X-Series ,9,9500,1/21/2021,232500
+,Speaker,Samsung S-21,6,7000,,
+,Speaker,Audionic RTX-2,14,7500,,
+,,,,,,
+1015,Speaker,Jiasound JBL-03,6,8000,1/24/2021,232000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,,,,,,
+1016,Refrigerator,Haier Single Door HDF-24,2,75000,1/26/2021,536500
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,3,7500,,
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,Refrigerator,Dawlance 547-WB,1,70000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1017,Speaker,Audionic RTX-2,15,7500,1/28/2021,112500
+,,,,,,
+1018,Speaker,Sony XG300 X-Series ,2,9500,2/1/2021,180000
+,Tv,Samsung Q60A QLED 4K Smart TV,1,87000,,
+,Tv,EcoStar LED HD Frameless TV,1,74000,,
+,,,,,,
+1019,Speaker,Samsung S-21,7,7000,2/1/2021,340000
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,,,,,,
+1020,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,2/2/2021,276000
+,,,,,,
+1021,Speaker,Sony XG300 X-Series ,7,9500,2/2/2021,66500
+,,,,,,
+1022,Refrigerator,Hitachi Double Glass Door FP,2,108000,2/3/2021,216000
+,,,,,,
+1023,Tv,Sony Z9J BRAVIA XR,7,97000,2/4/2021,1199000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,Speaker,Sony XG300 X-Series ,16,9500,,
+,,,,,,
+1024,Refrigerator,Haier Glass Door HRF-291,3,79000,2/5/2021,517000
+,Refrigerator,Dawlance 547-WB,4,70000,,
+,,,,,,
+1025,Speaker,Jiasound JBL-03,19,8000,2/6/2021,152000
+,,,,,,
+1026,Tv,EcoStar LED HD Frameless TV,3,74000,2/7/2021,603000
+,Refrigerator,Haier Glass Door HRF-291,2,79000,,
+,Speaker,Samsung S-21,7,7000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,,,,,,
+1027,Refrigerator,Haier Single Door HDF-24,4,75000,2/7/2021,592500
+,Refrigerator,Dawlance 547-WB,3,70000,,
+,Speaker,Audionic RTX-2,11,7500,,
+,,,,,,
+1028,Speaker,Jiasound JBL-03,5,8000,2/9/2021,331000
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,,,,,,
+1029,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,2/10/2021,470000
+,Tv,EcoStar LED HD Frameless TV,4,74000,,
+,,,,,,
+1030,Refrigerator,Haier Glass Door HRF-291,7,79000,2/11/2021,553000
+,,,,,,
+1031,Speaker,Jiasound JBL-03,14,8000,2/13/2021,210000
+,Speaker,Samsung S-21,14,7000,,
+,,,,,,
+1032,Speaker,Jiasound JBL-03,5,8000,2/15/2021,149500
+,Speaker,Audionic RTX-2,7,7500,,
+,Speaker,Sony XG300 X-Series ,6,9500,,
+,,,,,,
+1033,Tv,Sony Z9J BRAVIA XR,7,97000,2/16/2021,679000
+,,,,,,
+1034,Refrigerator,Dawlance 547-WB,7,70000,2/17/2021,490000
+,,,,,,
+1035,Tv,EcoStar LED HD Frameless TV,3,74000,2/17/2021,958000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,8,92000,,
+,,,,,,
+1036,Tv,EcoStar LED HD Frameless TV,4,74000,2/19/2021,404000
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1037,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,2/20/2021,276000
+,,,,,,
+1038,Speaker,Audionic RTX-2,2,7500,2/22/2021,342000
+,Speaker,Jiasound JBL-03,3,8000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,1,87000,,
+,,,,,,
+1039,Tv,EcoStar LED HD Frameless TV,5,74000,2/22/2021,436500
+,Speaker,Sony XG300 X-Series ,7,9500,,
+,,,,,,
+1040,Tv,Sony Z9J BRAVIA XR,5,97000,2/23/2021,485000
+,,,,,,
+1041,Tv,Samsung Q60A QLED 4K Smart TV,8,87000,2/25/2021,696000
+,,,,,,
+1042,Refrigerator,Haier Glass Door HRF-291,1,79000,2/27/2021,79000
+,,,,,,
+1043,Speaker,Audionic RTX-2,11,7500,2/28/2021,82500
+,,,,,,
+1044,Refrigerator,Dawlance 547-WB,4,70000,3/1/2021,327500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1045,Refrigerator,Haier Glass Door HRF-291,2,79000,3/2/2021,173000
+,Speaker,Audionic RTX-2,2,7500,,
+,,,,,,
+1046,Tv,Sony Z9J BRAVIA XR,6,97000,3/2/2021,582000
+,,,,,,
+1047,Speaker,Sony XG300 X-Series ,3,9500,3/4/2021,392000
+,Tv,EcoStar LED HD Frameless TV,4,74000,,
+,Speaker,Audionic RTX-2,9,7500,,
+,,,,,,
+1048,Refrigerator,Hitachi Double Glass Door FP,2,108000,3/5/2021,773000
+,Tv,Samsung Q60A QLED 4K Smart TV,3,87000,,
+,Tv,EcoStar LED HD Frameless TV,4,74000,,
+,,,,,,
+1049,Tv,Samsung QN85A Neo QLED 4K Smart TV,6,92000,3/6/2021,552000
+,,,,,,
+1050,Speaker,Audionic RTX-2,23,7500,3/8/2021,172500
+,,,,,,
+1051,Speaker,Sony XG300 X-Series ,17,9500,3/9/2021,161500
+,,,,,,
+1052,Refrigerator,Haier Single Door HDF-24,1,75000,3/10/2021,819500
+,Tv,EcoStar LED HD Frameless TV,4,74000,,
+,Speaker,Audionic RTX-2,13,7500,,
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,Tv,Sony Z9J BRAVIA XR,1,97000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+1053,Speaker,Jiasound JBL-03,9,8000,3/10/2021,266000
+,Tv,Sony Z9J BRAVIA XR,2,97000,,
+,,,,,,
+1054,Speaker,Jiasound JBL-03,7,8000,3/12/2021,138500
+,Speaker,Audionic RTX-2,11,7500,,
+,,,,,,
+1055,Tv,EcoStar LED HD Frameless TV,11,74000,3/12/2021,814000
+,,,,,,
+1056,Refrigerator,Hitachi Double Glass Door FP,2,108000,3/13/2021,604000
+,Tv,Sony Z9J BRAVIA XR,4,97000,,
+,,,,,,
+1057,Speaker,Sony XG300 X-Series ,2,9500,3/15/2021,294500
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,17,7500,,
+,,,,,,
+1058,Tv,Samsung QN85A Neo QLED 4K Smart TV,9,92000,3/15/2021,828000
+,,,,,,
+1059,Refrigerator,Dawlance 547-WB,6,70000,3/17/2021,458000
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,,,,,,
+1060,Speaker,Sony XG300 X-Series ,5,9500,3/19/2021,121000
+,Speaker,Samsung S-21,3,7000,,
+,Speaker,Audionic RTX-2,7,7500,,
+,,,,,,
+1061,Refrigerator,Dawlance 547-WB,3,70000,3/20/2021,666500
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,Speaker,Audionic RTX-2,3,7500,,
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,Refrigerator,Dawlance 547-WB,1,70000,,
+,Speaker,Samsung S-21,5,7000,,
+,,,,,,
+1062,Refrigerator,Haier Single Door HDF-24,3,75000,3/22/2021,225000
+,,,,,,
+1063,Refrigerator,Hitachi Double Glass Door FP,2,108000,3/24/2021,216000
+,,,,,,
+1064,Refrigerator,Hitachi Double Glass Door FP,1,108000,3/25/2021,164000
+,Speaker,Jiasound JBL-03,7,8000,,
+,,,,,,
+1065,Tv,EcoStar LED HD Frameless TV,4,74000,3/28/2021,584500
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,Speaker,Sony XG300 X-Series ,11,9500,,
+,,,,,,
+1066,Speaker,Jiasound JBL-03,4,8000,4/1/2021,226000
+,Tv,Sony Z9J BRAVIA XR,2,97000,,
+,,,,,,
+1067,Speaker,Samsung S-21,7,7000,4/2/2021,325000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,,,,,,
+1068,Tv,EcoStar LED HD Frameless TV,2,74000,4/3/2021,148000
+,,,,,,
+1069,Refrigerator,Hitachi Double Glass Door FP,4,108000,4/3/2021,432000
+,,,,,,
+1070,Speaker,Audionic RTX-2,7,7500,4/5/2021,953500
+,Refrigerator,Haier Glass Door HRF-291,4,79000,,
+,Refrigerator,Hitachi Double Glass Door FP,3,108000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,3,87000,,
+,,,,,,
+1071,Speaker,Sony XG300 X-Series ,3,9500,4/5/2021,883500
+,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,,
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,,,,,,
+1072,Speaker,Jiasound JBL-03,3,8000,4/6/2021,139000
+,Speaker,Audionic RTX-2,9,7500,,
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1073,Speaker,Jiasound JBL-03,29,8000,4/7/2021,232000
+,,,,,,
+1074,Tv,Sony Z9J BRAVIA XR,4,97000,4/8/2021,549500
+,Speaker,Sony XG300 X-Series ,17,9500,,
+,,,,,,
+1075,Refrigerator,Dawlance 547-WB,3,70000,4/9/2021,255000
+,Speaker,Audionic RTX-2,6,7500,,
+,,,,,,
+1076,Tv,EcoStar LED HD Frameless TV,7,74000,4/9/2021,518000
+,,,,,,
+1077,Speaker,Samsung S-21,3,7000,4/10/2021,560500
+,Speaker,Sony XG300 X-Series ,13,9500,,
+,Tv,EcoStar LED HD Frameless TV,3,74000,,
+,Tv,Sony Z9J BRAVIA XR,2,97000,,
+,,,,,,
+1078,Speaker,Samsung S-21,4,7000,4/12/2021,253000
+,Refrigerator,Haier Single Door HDF-24,3,75000,,
+,,,,,,
+1079,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,4/12/2021,832000
+,Refrigerator,Hitachi Double Glass Door FP,6,108000,,
+,,,,,,
+1080,Tv,Sony Z9J BRAVIA XR,5,97000,4/13/2021,1129000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,7,92000,,
+,,,,,,
+1081,Speaker,Jiasound JBL-03,32,8000,4/14/2021,256000
+,,,,,,
+1082,Speaker,Samsung S-21,21,7000,4/15/2021,274500
+,Speaker,Audionic RTX-2,17,7500,,
+,,,,,,
+1083,Tv,Sony Z9J BRAVIA XR,9,97000,4/16/2021,873000
+,,,,,,
+1084,Tv,EcoStar LED HD Frameless TV,12,74000,4/17/2021,888000
+,,,,,,
+1085,Refrigerator,Haier Single Door HDF-24,7,75000,4/17/2021,525000
+,,,,,,
+1086,Refrigerator,Dawlance 547-WB,4,70000,4/19/2021,778000
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,Refrigerator,Hitachi Double Glass Door FP,3,108000,,
+,,,,,,
+1087,Tv,Samsung QN85A Neo QLED 4K Smart TV,9,92000,4/20/2021,828000
+,,,,,,
+1088,Speaker,Audionic RTX-2,14,7500,4/21/2021,105000
+,,,,,,
+1089,Speaker,Sony XG300 X-Series ,6,9500,4/22/2021,57000
+,,,,,,
+1090,Refrigerator,Haier Single Door HDF-24,2,75000,4/23/2021,1039000
+,Tv,EcoStar LED HD Frameless TV,3,74000,,
+,Speaker,Audionic RTX-2,11,7500,,
+,Speaker,Sony XG300 X-Series ,7,9500,,
+,Tv,Sony Z9J BRAVIA XR,2,97000,,
+,Refrigerator,Hitachi Double Glass Door FP,3,108000,,
+,,,,,,
+1091,Speaker,Jiasound JBL-03,5,8000,4/24/2021,428000
+,Tv,Sony Z9J BRAVIA XR,4,97000,,
+,,,,,,
+1092,Speaker,Audionic RTX-2,8,7500,4/26/2021,60000
+,,,,,,
+1093,Refrigerator,Haier Single Door HDF-24,3,75000,4/28/2021,841000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,Refrigerator,Hitachi Double Glass Door FP,4,108000,,
+,,,,,,
+1094,Speaker,Audionic RTX-2,5,7500,4/29/2021,623500
+,Speaker,Jiasound JBL-03,17,8000,,
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,,,,,,
+1095,Tv,Sony Z9J BRAVIA XR,11,97000,5/1/2021,1067000
+,,,,,,
+1096,Refrigerator,Dawlance 547-WB,13,70000,5/1/2021,910000
+,,,,,,
+1097,Tv,EcoStar LED HD Frameless TV,6,74000,5/1/2021,996000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,6,92000,,
+,,,,,,
+1098,Tv,Sony Z9J BRAVIA XR,3,97000,5/3/2021,291000
+,,,,,,
+1099,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,5/3/2021,174000
+,,,,,,
+1100,Refrigerator,Haier Glass Door HRF-291,5,79000,5/4/2021,395000
+,,,,,,
+1101,Speaker,Audionic RTX-2,25,7500,5/5/2021,187500
+,,,,,,
+1102,Tv,Samsung Q60A QLED 4K Smart TV,9,87000,5/6/2021,783000
+,,,,,,
+1103,Speaker,Sony XG300 X-Series ,2,9500,5/7/2021,238000
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,Speaker,Audionic RTX-2,6,7500,,
+,,,,,,
+1104,Refrigerator,Hitachi Double Glass Door FP,4,108000,5/7/2021,838000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,Tv,EcoStar LED HD Frameless TV,3,74000,,
+,,,,,,
+1105,Tv,Samsung QN85A Neo QLED 4K Smart TV,7,92000,5/8/2021,644000
+,,,,,,
+1106,Speaker,Sony XG300 X-Series ,6,9500,5/8/2021,257500
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,7,7500,,
+,,,,,,
+1107,Refrigerator,Hitachi Double Glass Door FP,4,108000,5/9/2021,1189000
+,Tv,Samsung Q60A QLED 4K Smart TV,7,87000,,
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,,,,,,
+1108,Tv,Samsung QN85A Neo QLED 4K Smart TV,8,92000,5/10/2021,736000
+,,,,,,
+1109,Speaker,Audionic RTX-2,13,7500,5/11/2021,97500
+,,,,,,
+1110,Speaker,Sony XG300 X-Series ,24,9500,5/12/2021,228000
+,,,,,,
+1111,Refrigerator,Hitachi Double Glass Door FP,4,108000,5/12/2021,432000
+,,,,,,
+1112,Tv,Sony Z9J BRAVIA XR,6,97000,5/15/2021,972000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,Speaker,Sony XG300 X-Series ,12,9500,,
+,,,,,,
+1113,Refrigerator,Haier Glass Door HRF-291,6,79000,5/17/2021,1034000
+,Refrigerator,Dawlance 547-WB,8,70000,,
+,,,,,,
+1114,Refrigerator,Dawlance 547-WB,7,70000,5/17/2021,490000
+,,,,,,
+1115,Speaker,Samsung S-21,7,7000,5/19/2021,124500
+,Speaker,Audionic RTX-2,5,7500,,
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,,,,,,
+1116,Tv,Sony Z9J BRAVIA XR,3,97000,5/20/2021,291000
+,,,,,,
+1117,Tv,EcoStar LED HD Frameless TV,2,74000,5/21/2021,528000
+,Speaker,Sony XG300 X-Series ,40,9500,,
+,,,,,,
+1118,Tv,Sony Z9J BRAVIA XR,4,97000,5/24/2021,388000
+,,,,,,
+1119,Tv,Samsung Q60A QLED 4K Smart TV,7,87000,5/27/2021,609000
+,,,,,,
+1120,Refrigerator,Haier Glass Door HRF-291,8,79000,5/29/2021,632000
+,,,,,,
+1121,Speaker,Audionic RTX-2,34,7500,6/1/2021,255000
+,,,,,,
+1122,Refrigerator,Haier Glass Door HRF-291,9,79000,6/2/2021,991000
+,Refrigerator,Dawlance 547-WB,4,70000,,
+,,,,,,
+1123,Speaker,Audionic RTX-2,5,7500,6/3/2021,559500
+,Speaker,Jiasound JBL-03,4,8000,,
+,Refrigerator,Haier Glass Door HRF-291,4,79000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,,,,,,
+1124,Tv,EcoStar LED HD Frameless TV,7,74000,6/3/2021,565500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1125,Refrigerator,Haier Single Door HDF-24,5,75000,6/4/2021,1281000
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,17,7500,,
+,Speaker,Sony XG300 X-Series ,13,9500,,
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+1126,Speaker,Jiasound JBL-03,7,8000,6/5/2021,347000
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,,,,,,
+1127,Tv,EcoStar LED HD Frameless TV,5,74000,6/7/2021,746500
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,Speaker,Sony XG300 X-Series ,9,9500,,
+,,,,,,
+1128,Speaker,Jiasound JBL-03,11,8000,6/8/2021,379000
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,,,,,,
+1129,Speaker,Samsung S-21,9,7000,6/9/2021,431000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,,,,,,
+1130,Tv,EcoStar LED HD Frameless TV,7,74000,6/9/2021,518000
+,,,,,,
+1131,Refrigerator,Hitachi Double Glass Door FP,6,108000,6/9/2021,648000
+,,,,,,
+1132,Refrigerator,Haier Single Door HDF-24,5,75000,6/10/2021,791000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,1,92000,,
+,Refrigerator,Hitachi Double Glass Door FP,3,108000,,
+,,,,,,
+1133,Tv,Samsung Q60A QLED 4K Smart TV,9,87000,6/12/2021,783000
+,,,,,,
+1134,Refrigerator,Dawlance 547-WB,7,70000,6/14/2021,537500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1135,Refrigerator,Haier Glass Door HRF-291,,79000,6/14/2021,15000
+,Speaker,Audionic RTX-2,2,7500,,
+,,,,,,
+1136,Tv,Sony Z9J BRAVIA XR,9,97000,6/15/2021,873000
+,,,,,,
+1137,Tv,Samsung Q60A QLED 4K Smart TV,4,87000,6/16/2021,348000
+,,,,,,
+1138,Refrigerator,Hitachi Double Glass Door FP,4,108000,6/17/2021,568000
+,Speaker,Jiasound JBL-03,17,8000,,
+,,,,,,
+1139,Refrigerator,Haier Glass Door HRF-291,7,79000,6/17/2021,553000
+,,,,,,
+1140,Refrigerator,Haier Single Door HDF-24,8,75000,6/19/2021,600000
+,,,,,,
+1141,Refrigerator,Hitachi Double Glass Door FP,2,108000,6/21/2021,566000
+,Refrigerator,Dawlance 547-WB,5,70000,,
+,,,,,,
+1142,Speaker,Samsung S-21,32,7000,6/22/2021,224000
+,,,,,,
+1143,Speaker,Sony XG300 X-Series ,6,9500,6/22/2021,535000
+,Tv,Sony Z9J BRAVIA XR,4,97000,,
+,Speaker,Audionic RTX-2,12,7500,,
+,,,,,,
+1144,Speaker,Jiasound JBL-03,9,8000,6/23/2021,440000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,,,,,,
+1145,Refrigerator,Haier Single Door HDF-24,4,75000,6/24/2021,1005500
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,18,7500,,
+,Speaker,Sony XG300 X-Series ,7,9500,,
+,Refrigerator,Dawlance 547-WB,2,70000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+1146,Tv,Sony Z9J BRAVIA XR,14,97000,6/25/2021,1358000
+,,,,,,
+1147,Tv,EcoStar LED HD Frameless TV,15,74000,6/25/2021,1110000
+,,,,,,
+1148,Refrigerator,Haier Single Door HDF-24,9,75000,6/28/2021,675000
+,,,,,,
+1149,Speaker,Audionic RTX-2,17,7500,6/29/2021,1065500
+,Refrigerator,Haier Glass Door HRF-291,5,79000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,,
+,,,,,,
+1150,Speaker,Sony XG300 X-Series ,13,9500,6/30/2021,1012500
+,Tv,Samsung Q60A QLED 4K Smart TV,7,87000,,
+,Refrigerator,Dawlance 547-WB,4,70000,,
+,,,,,,
+1151,Refrigerator,Dawlance 547-WB,4,70000,7/1/2021,505000
+,Refrigerator,Haier Single Door HDF-24,3,75000,,
+,,,,,,
+1152,Tv,EcoStar LED HD Frameless TV,5,74000,7/2/2021,490000
+,Speaker,Jiasound JBL-03,15,8000,,
+,,,,,,
+1153,Speaker,Sony XG300 X-Series ,1,9500,7/2/2021,628500
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,Refrigerator,Hitachi Double Glass Door FP,5,108000,,
+,,,,,,
+1154,Refrigerator,Dawlance 547-WB,3,70000,7/3/2021,210000
+,,,,,,
+1154,Tv,Sony Z9J BRAVIA XR,8,97000,7/3/2021,776000
+,,,,,,
+1156,Refrigerator,Dawlance 547-WB,10,70000,7/3/2021,1300000
+,Refrigerator,Haier Single Door HDF-24,8,75000,,
+,,,,,,
+1157,Tv,Samsung QN85A Neo QLED 4K Smart TV,10,92000,7/4/2021,920000
+,,,,,,
+1158,Refrigerator,Haier Single Door HDF-24,4,75000,7/5/2021,828000
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1159,Speaker,Audionic RTX-2,1,7500,7/5/2021,830500
+,Refrigerator,Haier Single Door HDF-24,9,75000,,
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,,,,,,
+,,,,,,
+1160,Refrigerator,Haier Single Door HDF-24,9,75000,7/6/2021,675000
+,,,,,,
+1161,Refrigerator,Hitachi Double Glass Door FP,5,108000,7/7/2021,960000
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,,,,,,
+1162,Speaker,Samsung S-21,120,7000,7/7/2021,840000
+,,,,,,
+1163,Tv,Samsung QN85A Neo QLED 4K Smart TV,6,92000,7/8/2021,552000
+,,,,,,
+1164,Speaker,Sony XG300 X-Series ,9,9500,7/9/2021,667500
+,Speaker,Samsung S-21,6,7000,,
+,Refrigerator,Hitachi Double Glass Door FP,5,108000,,
+,,,,,,
+1165,Speaker,Jiasound JBL-03,6,8000,7/10/2021,232000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,,,,,,
+1166,Speaker,Sony XG300 X-Series ,4,9500,7/13/2021,
+,Refrigerator,Dawlance 547-WB,1,70000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1167,Speaker,Audionic RTX-2,10,7500,7/15/2021,75000
+,,,,,,
+1168,Refrigerator,Dawlance 547-WB,5,70000,7/18/2021,1873000
+,Tv,Samsung Q60A QLED 4K Smart TV,9,87000,,
+,Tv,EcoStar LED HD Frameless TV,10,74000,,
+,,,,,,
+1169,Refrigerator,Haier Glass Door HRF-291,10,79000,7/19/2021,1081000
+,Tv,Sony Z9J BRAVIA XR,3,97000,,
+,,,,,,
+1170,Refrigerator,Hitachi Double Glass Door FP,13,108000,7/20/2021,1404000
+,,,,,,
+1171,Refrigerator,Hitachi Double Glass Door FP,7,108000,7/22/2021,936000
+,Speaker,Samsung S-21,4,7000,,
+,Speaker,Sony XG300 X-Series ,16,9500,,
+,,,,,,
+1172,Refrigerator,Haier Glass Door HRF-291,10,79000,7/22/2021,1560000
+,Refrigerator,Dawlance 547-WB,11,70000,,
+,,,,,,
+1173,Refrigerator,Haier Single Door HDF-24,10,75000,7/22/2021,1149000
+,Refrigerator,Dawlance 547-WB,5,70000,,
+,Tv,Samsung S-21,7,7000,,
+,,,,,,
+1174,Refrigerator,Haier Single Door HDF-24,4,75000,7/22/2021,1390000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,Tv,EcoStar LED HD Frameless TV,11,74000,,
+,,,,,,
+1175,Refrigerator,Haier Glass Door HRF-291,10,79000,7/23/2021,898000
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1176,Tv,Samsung Q60A QLED 4K Smart TV,8,87000,7/23/2021,770000
+,Tv,EcoStar LED HD Frameless TV,1,74000,,
+,,,,,,
+1177,Refrigerator,Haier Glass Door HRF-291,9,79000,7/23/2021,711000
+,,,,,,
+1178,Speaker,Jiasound JBL-03,1,8000,7/23/2021,29000
+,Speaker,Samsung S-21,3,7000,,
+,,,,,,
+1179,Refrigerator,Hitachi Double Glass Door FP,5,108000,7/24/2021,1012500
+,Speaker,Audionic RTX-2,7,7500,,
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,,,,,,
+1180,Tv,Sony Z9J BRAVIA XR,5,97000,7/24/2021,485000
+,,,,,,
+1181,Tv,EcoStar LED HD Frameless TV,3,74000,7/26/2021,958000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,8,92000,,
+,,,,,,
+1182,Tv,EcoStar LED HD Frameless TV,4,74000,7/27/2021,404000
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1183,Refrigerator,Dawlance 547-WB,2,70000,7/28/2021,380000
+,Speaker,Jiasound JBL-03,3,8000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+1184,Refrigerator,Hitachi Double Glass Door FP,5,108000,7/30/2021,587500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1185,Tv,Sony Z9J BRAVIA XR,15,97000,7/30/2021,1455000
+,,,,,,
+1186,Speaker,Audionic RTX-2,2,7500,8/1/2021,15000
+,,,,,,
+1187,Speaker,Sony XG300 X-Series ,30,9500,8/2/2021,285000
+,,,,,,
+1188,Speaker,Audionic RTX-2,11,7500,8/2/2021,82500
+,,,,,,
+1189,Refrigerator,Dawlance 547-WB,4,70000,8/2/2021,327500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,,,,,,
+1190,Refrigerator,Haier Glass Door HRF-291,2,79000,8/3/2021,618000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,,
+,,,,,,
+1191,Speaker,Samsung S-21,12,7000,8/3/2021,141000
+,Speaker,Sony XG300 X-Series ,6,9500,,
+,,,,,,
+1192,Speaker,Samsung S-21,5,7000,8/3/2021,219000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,,,,,,
+1193,Tv,Sony Z9J BRAVIA XR,2,97000,8/4/2021,994500
+,Tv,Samsung Q60A QLED 4K Smart TV,8,87000,,
+,Speaker,Sony XG300 X-Series ,11,9500,,
+,,,,,,
+1194,Speaker,Samsung S-21,5,7000,8/6/2021,936000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,Refrigerator,Haier Glass Door HRF-291,3,79000,,
+,Tv,EcoStar LED HD Frameless TV,4,74000,,
+,,,,,,
+1195,Refrigerator,Haier Single Door HDF-24,3,75000,8/6/2021,326500
+,Speaker,Jiasound JBL-03,8,8000,,
+,Speaker,Audionic RTX-2,5,7500,,
+,,,,,,
+1196,Tv,Samsung Q60A QLED 4K Smart TV,10,87000,8/9/2021,905000
+,Speaker,Samsung S-21,5,7000,,
+,,,,,,
+1197,Speaker,Sony XG300 X-Series ,2,9500,8/9/2021,3667000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,15,92000,,
+,Refrigerator,Hitachi Double Glass Door FP,21,108000,,
+,,,,,,
+1198,Refrigerator,Dawlance 547-WB,6,70000,8/10/2021,420000
+,,,,,,
+1199,Tv,EcoStar LED HD Frameless TV,2,74000,8/10/2021,1120000
+,Refrigerator,Hitachi Double Glass Door FP,9,108000,,
+,,,,,,
+1200,Tv,Samsung QN85A Neo QLED 4K Smart TV,15,92000,8/10/2021,1380000
+,Tv,Sony Z9J BRAVIA XR,5,97000,,
+,Speaker,Audionic RTX-2,9,7500,,
+,,,,,,
+1201,Speaker,Samsung S-21,2,7000,8/12/2021,591000
+,Tv,Samsung Q60A QLED 4K Smart TV,3,87000,,
+,Refrigerator,Haier Glass Door HRF-291,4,79000,,
+,,,,,,
+1202,Tv,Samsung QN85A Neo QLED 4K Smart TV,10,92000,8/12/2021,920000
+,,,,,,
+1203,Speaker,Audionic RTX-2,23,7500,8/13/2021,172500
+,,,,,,
+1204,Tv,Samsung QN85A Neo QLED 4K Smart TV,10,92000,8/13/2021,1075500
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,Speaker,Audionic RTX-2,1,7500,,
+,,,,,,
+1205,Refrigerator,Haier Single Door HDF-24,9,75000,8/13/2021,833000
+,Refrigerator,Haier Glass Door HRF-291,2,79000,,
+,,,,,,
+1206,Speaker,Samsung S-21,105,74000,8/16/2021,7770000
+,,,,,,
+1207,Tv,Samsung QN85A Neo QLED 4K Smart TV,21,92000,8/16/2021,2524000
+,Tv,EcoStar LED HD Frameless TV,8,74000,,
+,,,,,,
+1208,Refrigerator,Haier Single Door HDF-24,3,75000,8/17/2021,1110000
+,Refrigerator,Dawlance 547-WB,12,70000,,
+,Speaker,Audionic RTX-2,6,7500,,
+,,,,,,
+1209,Tv,Samsung QN85A Neo QLED 4K Smart TV,1,92000,8/17/2021,92000
+,,,,,,
+1210,Refrigerator,Dawlance 547-WB,6,70000,8/20/2021,420000
+,,,,,,
+1211,Refrigerator,Hitachi Double Glass Door FP,8,108000,8/23/2021,1855000
+,Speaker,Samsung S-21,3,7000,,
+,Tv,Sony Z9J BRAVIA XR,10,97000,,
+,,,,,,
+1212,Refrigerator,Dawlance 547-WB,3,70000,8/27/2021,210000
+,,,,,,
+1213,Tv,Sony Z9J BRAVIA XR,3,97000,9/1/2021,1296000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,Refrigerator,Haier Single Door HDF-24,4,75000,,
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,Refrigerator,Dawlance 547-WB,5,70000,,
+,,,,,,
+1214,Refrigerator,Hitachi Double Glass Door FP,10,108000,9/2/2021,1120000
+,Speaker,Jiasound JBL-03,5,8000,,
+,,,,,,
+1215,Tv,Sony Z9J BRAVIA XR,4,97000,9/3/2021,666500
+,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,,
+,Speaker,Sony XG300 X-Series ,11,9500,,
+,,,,,,
+1216,Speaker,Jiasound JBL-03,4,8000,9/3/2021,46000
+,Speaker,Samsung S-21,2,7000,,
+,,,,,,
+1217,Speaker,Samsung S-21,17,7000,9/6/2021,303000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,,,,,,
+,,,,,,
+1219,Speaker,Audionic RTX-2,7,7500,9/8/2021,1327500
+,Speaker,Jiasound JBL-03,4,8000,,
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,9,87000,,
+,,,,,,
+1220,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,9/10/2021,855000
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,,,,,,
+1221,Speaker,Jiasound JBL-03,10,8000,9/13/2021,285000
+,Speaker,Audionic RTX-2,2,7500,,
+,Speaker,Sony XG300 X-Series ,20,9500,,
+,,,,,,
+1222,Speaker,Samsung S-21,5,7000,9/15/2021,35000
+,,,,,,
+1223,Tv,Sony Z9J BRAVIA XR,4,97000,9/17/2021,463000
+,Refrigerator,Haier Single Door HDF-24,1,75000,,
+,,,,,,
+1224,Refrigerator,Dawlance 547-WB,10,70000,9/20/2021,715000
+,Speaker,Audionic RTX-2,2,7500,,
+,,,,,,
+,,,,,,
+1225,Speaker,Samsung S-21,1,7000,9/22/2021,895500
+,Speaker,Sony XG300 X-Series ,3,9500,,
+,Tv,EcoStar LED HD Frameless TV,10,74000,,
+,Speaker,Jiasound JBL-03,15,8000,,
+,,,,,,
+1226,Speaker,Audionic RTX-2,20,7500,9/23/2021,150000
+,,,,,,
+1227,Tv,Samsung QN85A Neo QLED 4K Smart TV,9,92000,9/27/2021,1568000
+,Tv,EcoStar LED HD Frameless TV,10,74000,,
+,,,,,,
+1228,Speaker,Samsung S-21,10,7000,9/28/2021,595000
+,Refrigerator,Haier Single Door HDF-24,7,75000,,
+,,,,,,
+1229,Speaker,Jiasound JBL-03,10,8000,9/29/2021,80000
+,,,,,,
+1230,Tv,Sony Z9J BRAVIA XR,4,97000,9/29/2021,416500
+,Speaker,Sony XG300 X-Series ,3,9500,,
+,,,,,,
+1231,Speaker,Samsung S-21,5,7000,9/30/2021,219000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,,,,,,
+1232,Tv,Sony Z9J BRAVIA XR,2,97000,10/1/2021,994500
+,Tv,Samsung Q60A QLED 4K Smart TV,8,87000,,
+,Speaker,Sony XG300 X-Series ,11,9500,,
+,,,,,,
+1233,Speaker,Samsung S-21,5,7000,10/1/2021,920000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,4,92000,,
+,Refrigerator,Haier Glass Door HRF-291,3,79000,,
+,Refrigerator,Dawlance 547-WB,4,70000,,
+,,,,,,
+1234,Refrigerator,Haier Single Door HDF-24,3,75000,10/4/2021,1110000
+,Refrigerator,Dawlance 547-WB,12,70000,,
+,Speaker,Audionic RTX-2,6,7500,,
+,,,,,,
+1235,Tv,Samsung Q60A QLED 4K Smart TV,8,87000,10/4/2021,1116000
+,Refrigerator,Dawlance 547-WB,6,70000,,
+,,,,,,
+1236,Speaker,Sony XG300 X-Series ,9,9500,10/5/2021,371500
+,Speaker,Samsung S-21,10,7000,,
+,Refrigerator,Hitachi Double Glass Door FP,2,108000,,
+,,,,,,
+1237,Refrigerator,Dawlance 547-WB,6,70000,10/5/2021,420000
+,,,,,,
+1238,Tv,EcoStar LED HD Frameless TV,2,74000,10/7/2021,1120000
+,Refrigerator,Hitachi Double Glass Door FP,9,108000,,
+,,,,,,
+1239,Tv,Samsung QN85A Neo QLED 4K Smart TV,15,92000,10/8/2021,1380000
+,,,,,,
+1240,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,10/8/2021,332000
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,,,,,,
+1241,Speaker,Audionic RTX-2,10,7500,10/11/2021,1525000
+,Speaker,Jiasound JBL-03,15,8000,,
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,10,87000,,
+,,,,,,
+1242,Refrigerator,Haier Glass Door HRF-291,5,79000,10/11/2021,395000
+,,,,,,
+1243,Speaker,Samsung S-21,13,7000,10/12/2021,91000
+,,,,,,
+1244,Tv,Sony Z9J BRAVIA XR,10,97000,10/13/2021,970000
+,,,,,,
+1245,Speaker,Samsung S-21,5,7000,10/14/2021,89500
+,Speaker,Audionic RTX-2,6,7500,,
+,Speaker,Sony XG300 X-Series ,1,9500,,
+,,,,,,
+1246,Tv,Samsung Q60A QLED 4K Smart TV,10,87000,10/15/2021,944000
+,Tv,EcoStar LED HD Frameless TV,1,74000,,
+,,,,,,
+1247,Speaker,Sony XG300 X-Series ,12,75000,10/18/2021,979000
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,,,,,,
+1248,Tv,EcoStar LED HD Frameless TV,5,74000,10/19/2021,412000
+,Speaker,Samsung S-21,6,7000,,
+,,,,,,
+1249,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,10/21/2021,435000
+,,,,,,
+1250,Tv,Sony Z9J BRAVIA XR,3,97000,10/22/2021,711500
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,3,92000,,
+,Speaker,Samsung S-21,4,7000,,
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,Speaker,Audionic RTX-2,5,7500,,
+,,,,,,
+1251,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,10/25/2021,1449500
+,Speaker,Sony XG300 X-Series ,5,9500,,
+,Tv,EcoStar LED HD Frameless TV,15,74000,,
+,Refrigerator,Hitachi Double Glass Door FP,1,108000,,
+,,,,,,
+1252,Speaker,Samsung S-21,14,7000,10/26/2021,183500
+,Speaker,Sony XG300 X-Series ,9,9500,,
+,,,,,,
+1253,Speaker,Jiasound JBL-03,19,8000,10/28/2021,152000
+,,,,,,
+1254,Refrigerator,Hitachi Double Glass Door FP,1,108000,10/28/2021,116000
+,Speaker,Jiasound JBL-03,1,8000,,
+,,,,,,
+1255,Speaker,Samsung S-21,1,7000,10/29/2021,193000
+,Speaker,Audionic RTX-2,21,7500,,
+,Speaker,Sony XG300 X-Series ,3,9500,,
+,,,,,,
+1256,Refrigerator,Haier Glass Door HRF-291,6,79000,11/1/2021,474000
+,,,,,,
+1257,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,11/2/2021,258000
+,Tv,EcoStar LED HD Frameless TV,1,74000,,
+,,,,,,
+1258,Tv,Samsung Q60A QLED 4K Smart TV,15,87000,11/2/2021,1445000
+,Refrigerator,Hitachi Double Glass Door FP,2,70000,,
+,,,,,,
+1259,Speaker,Audionic RTX-2,17,7500,11/2/2021,461500
+,Speaker,Jiasound JBL-03,10,8000,,
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,2,92000,,
+,Refrigerator,Dawlance 547-WB,1,70000,,
+,,,,,,
+1260,Tv,EcoStar LED HD Frameless TV,5,74000,11/3/2021,1340000
+,Tv,Sony Z9J BRAVIA XR,10,97000,,
+,,,,,,
+1261,Tv,EcoStar LED HD Frameless TV,6,74000,11/4/2021,508000
+,Speaker,Jiasound JBL-03,8,8000,,
+,,,,,,
+1262,Tv,Samsung Q60A QLED 4K Smart TV,2,87000,11/5/2021,244000
+,Refrigerator,Dawlance 547-WB,1,70000,,
+,,,,,,
+1263,Refrigerator,Dawlance 547-WB,9,70000,11/5/2021,1682000
+,Speaker,Jiasound JBL-03,2,8000,,
+,Tv,EcoStar LED HD Frameless TV,14,74000,,
+,,,,,,
+1264,Tv,Samsung QN85A Neo QLED 4K Smart TV,12,92000,11/8/2021,1174000
+,Speaker,Samsung S-21,10,7000,,
+,,,,,,
+1265,Speaker,Sony XG300 X-Series ,19,9500,11/10/2021,1187500
+,Speaker,Samsung S-21,5,7000,,
+,Refrigerator,Hitachi Double Glass Door FP,9,108000,,
+,,,,,,
+1266,Speaker,Audionic RTX-2,15,7500,11/12/2021,1074500
+,Speaker,Samsung S-21,6,7000,,
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,10,92000,,
+,,,,,,
+1267,Tv,EcoStar LED HD Frameless TV,13,74000,11/15/2021,2129000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,10,92000,,
+,Speaker,Samsung S-21,4,7000,,
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,Refrigerator,Dawlance 547-WB,2,70000,,
+,,,,,,
+1268,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,11/15/2021,435000
+,,,,,,
+1269,Speaker,Samsung S-21,10,7000,11/18/2021,1878000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,12,92000,,
+,Speaker,Jiasound JBL-03,5,8000,,
+,Refrigerator,Haier Glass Door HRF-291,6,79000,,
+,Speaker,Sony XG300 X-Series ,20,9500,,
+,,,,,,
+1270,Refrigerator,Haier Glass Door HRF-291,1,79000,11/22/2021,79000
+,,,,,,
+1271,Speaker,Samsung S-21,10,7000,11/22/2021,110000
+,Speaker,Jiasound JBL-03,5,8000,,
+,,,,,,
+1272,Refrigerator,Hitachi Double Glass Door FP,1,108000,11/24/2021,2918000
+,Tv,Samsung Q60A QLED 4K Smart TV,10,87000,,
+,Tv,Sony Z9J BRAVIA XR,20,97000,,
+,,,,,,
+1273,Speaker,Jiasound JBL-03,4,8000,11/26/2021,46000
+,Speaker,Samsung S-21,2,7000,,
+,,,,,,
+1274,Refrigerator,Dawlance 547-WB,10,70000,11/26/2021,2540000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,20,92000,,
+,,,,,,
+,,,,,,
+1275,Speaker,Audionic RTX-2,17,7500,11/26/2021,1079500
+,Speaker,Jiasound JBL-03,10,8000,,
+,Refrigerator,Dawlance 547-WB,5,70000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,6,87000,,
+,,,,,,
+1276,Tv,Samsung Q60A QLED 4K Smart TV,3,87000,11/29/2021,1371000
+,Tv,EcoStar LED HD Frameless TV,15,74000,,
+,,,,,,
+1277,Tv,Samsung QN85A Neo QLED 4K Smart TV,20,92000,11/29/2021,2067000
+,Speaker,Audionic RTX-2,10,7500,,
+,Speaker,Sony XG300 X-Series ,16,9500,,
+,,,,,,
+1278,Refrigerator,Haier Glass Door HRF-291,1,79000,11/29/2021,79000
+,,,,,,
+1279,Tv,Sony Z9J BRAVIA XR,10,97000,11/29/2021,1130000
+,Speaker,Jiasound JBL-03,20,8000,,
+,,,,,,
+1280,Refrigerator,Dawlance 547-WB,2,70000,11/30/2021,290000
+,Speaker,Audionic RTX-2,20,7500,,
+,,,,,,
+,,,,,,
+1281,Speaker,Samsung S-21,1,7000,11/30/2021,895500
+,Speaker,Sony XG300 X-Series ,3,9500,,
+,Tv,EcoStar LED HD Frameless TV,10,74000,,
+,Speaker,Jiasound JBL-03,15,8000,,
+,,,,,,
+1282,Tv,EcoStar LED HD Frameless TV,14,74000,12/1/2021,1036000
+,,,,,,
+1283,Tv,Sony Z9J BRAVIA XR,10,97000,12/1/2021,970000
+,,,,,,
+1284,Speaker,Audionic RTX-2,15,7500,12/2/2021,112500
+,,,,,,
+1285,Speaker,Sony XG300 X-Series ,20,9500,12/3/2021,190000
+,,,,,,
+1286,Speaker,Samsung S-21,17,7000,12/3/2021,119000
+,,,,,,
+1287,Refrigerator,Dawlance 547-WB,1,70000,12/6/2021,545000
+,Speaker,Sony XG300 X-Series ,50,9500,,
+,,,,,,
+1288,Tv,Samsung Q60A QLED 4K Smart TV,12,87000,12/6/2021,1504000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,,
+,,,,,,
+1289,Speaker,Samsung S-21,18,7000,12/7/2021,164000
+,Speaker,Sony XG300 X-Series ,4,9500,,
+,,,,,,
+1290,Speaker,Samsung S-21,6,7000,12/7/2021,1238000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,13,92000,,
+,,,,,,
+1291,Tv,Sony Z9J BRAVIA XR,25,97000,12/9/2021,3002500
+,Tv,Samsung Q60A QLED 4K Smart TV,5,87000,,
+,Speaker,Sony XG300 X-Series ,15,9500,,
+,,,,,,
+1292,Speaker,Samsung S-21,15,7000,12/9/2021,2124000
+,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,,
+,Refrigerator,Haier Glass Door HRF-291,1,79000,,
+,Tv,EcoStar LED HD Frameless TV,20,74000,,
+,,,,,,
+1293,Tv,EcoStar LED HD Frameless TV,10,74000,12/10/2021,845000
+,Speaker,Samsung S-21,15,7000,,
+,,,,,,
+1294,Tv,Samsung QN85A Neo QLED 4K Smart TV,5,92000,12/13/2021,460000
+,,,,,,
+1295,Speaker,Audionic RTX-2,2,7500,12/14/2021,163000
+,Tv,EcoStar LED HD Frameless TV,2,74000,,
+,,,,,,
+1296,Speaker,Audionic RTX-2,10,7500,12/16/2021,1605000
+,Speaker,Jiasound JBL-03,15,8000,,
+,Refrigerator,Hitachi Double Glass Door FP,5,108000,,
+,Tv,Samsung Q60A QLED 4K Smart TV,10,87000,,
+,,,,,,
+1297,Refrigerator,Haier Glass Door HRF-291,10,79000,12/20/2021,790000
+,,,,,,
+1298,Speaker,Samsung S-21,50,7000,12/22/2021,350000
+,,,,,,
+1299,Tv,Sony Z9J BRAVIA XR,20,97000,12/24/2021,1940000
+,,,,,,
+1300,Tv,EcoStar LED HD Frameless TV,15,74000,12/29/2021,1650000
+,Refrigerator,Hitachi Double Glass Door FP,5,108000,,

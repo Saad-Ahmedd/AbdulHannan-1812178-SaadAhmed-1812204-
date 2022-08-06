@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349723467289",
+    "firebase_url": "https://bma-fyp-default-rtdb.firebaseio.com",
+    "project_id": "bma-fyp",
+    "storage_bucket": "bma-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349723467289:android:0fb0ec77b6cdbd2b9e5488",
+        "android_client_info": {
+          "package_name": "com.bmaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349723467289-d95j8d3g7rc0bdi4ai3kane4evh9arsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmaproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "349723467289-2e440jnkuf6q02k6ijjvjemkeqt7htpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ppgA46Uo7SPEJ_bqHuqqxnR3Ie0oKjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349723467289-2e440jnkuf6q02k6ijjvjemkeqt7htpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
