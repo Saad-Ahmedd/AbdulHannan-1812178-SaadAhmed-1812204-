@@ -28,7 +28,7 @@ Saad Ahmed (1812204)
 <h3>Project Title</h3>
 BMA (Business Management App)
 
-<h3>Deployment of Project Steps</h3>
+<h3>Steps of Deployment</h3>
 <ul>
 <li>Setup the development environment (React Native CLI) if it is not already been set up in your computer with the following link provided.
   (https://reactnative.dev/docs/environment-setup)</li>
