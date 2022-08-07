@@ -3,12 +3,10 @@
 This repository is based on my YouTube tutorial series where I'm creating a complete app UI by using different essential react native packages which is useful for creating any kind of app.
 
 <H3>Packages Used</H3>
-<ul>React Navigation</ul>
-React Native Vector Icons
-React Native Maps
-React Native Reanimated Bottom Sheet
-React Native Image Crop Picker
-React Native Swipe ListView
-React Native Share
-React Native Swiper
-React Native Image Header ScrollView
+<ul>
+  <li>React Navigation</li>
+  <li>React Native Vector Icons</li>
+  <li>React Native Reanimated Bottom Sheet</li>
+  <li>React Native Image Crop Picker</li>
+  <li>React Native Image Header ScrollView</li>
+</ul>
