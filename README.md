@@ -11,4 +11,11 @@ help them to make better decisions for their business.
   <li>React Native Reanimated Bottom Sheet</li>
   <li>React Native Image Crop Picker</li>
   <li>React Native Image Header ScrollView</li>
+  <li>Firebase</li>
+  <li>Realtime Firebase</li>
+  <li>Firebase Storage</li>
 </ul>
+
+<H2> Screen Shoot </H2>
+
+<img scr = "https://fxtrader-ryu.com/wp-content/uploads/2022/05/undraw_real_time_analytics_re_yliv-e1651621514927.png" width="240" height="390">
