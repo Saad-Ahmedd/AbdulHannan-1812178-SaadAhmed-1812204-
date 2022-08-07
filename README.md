@@ -1,8 +1,9 @@
-<H3>Food Finder App in React Native</H3>
+<H2>Business Management App in React Native</H2>
+
 This repository is based on my YouTube tutorial series where I'm creating a complete app UI by using different essential react native packages which is useful for creating any kind of app.
 
-Packages Used
-React Navigation
+<H3>Packages Used</H3>
+<ul>React Navigation</ul>
 React Native Vector Icons
 React Native Maps
 React Native Reanimated Bottom Sheet
