@@ -1,6 +1,8 @@
 <H2>Business Management App in React Native</H2>
 
-This repository is based on my YouTube tutorial series where I'm creating a complete app UI by using different essential react native packages which is useful for creating any kind of app.
+We are creating an application for those people who are running their own business and as it
+grows they want any platform that gives them reliable solutions and management tools that would
+help them to make better decisions for their business.
 
 <H3>Packages Used</H3>
 <ul>
